@@ -1,0 +1,9 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expExtract\expExtract\bin\Debug\expExtract.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expExtract\expExtract\bin\Debug\expExtract.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expExtract\expExtract\bin\Debug\expExtract.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expExtract\expExtract\bin\Debug\expExtract.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expExtract\expExtract\obj\Debug\expExtract.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expExtract\expExtract\obj\Debug\expExtract.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expExtract\expExtract\obj\Debug\expExtract.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expExtract\expExtract\obj\Debug\expExtract.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expExtract\expExtract\obj\Debug\expExtract.pdb
